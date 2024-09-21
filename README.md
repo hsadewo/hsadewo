@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi, I am Herry Sadewo. You can call me Dewo 👋
+With over 29 years of extensive experience as a professional in the Petrochemical industry (Olefins Plant), I have developed a strong track record in pre-commissioning, commissioning, startup, shutdown, and plant operations of both Naphtha and Ethane Crackers. My role consistently emphasizes delivering high-quality products that surpass customer expectations while supporting the company in meeting production and revenue targets.
 
+I bring proven leadership in managing and inspiring a diverse, multi-disciplinary workforce, navigating complex cultural and linguistic backgrounds. My flexibility, open-minded approach, and natural leadership qualities enable me to excel under pressure and drive team success.
 <!--
 **hsadewo/hsadewo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
